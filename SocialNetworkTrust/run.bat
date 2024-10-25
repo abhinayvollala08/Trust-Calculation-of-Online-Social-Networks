@@ -1,0 +1,2 @@
+python OSNTrustCalculation.py
+pause
